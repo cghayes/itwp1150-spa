@@ -1,4 +1,4 @@
-ITWP 1150 - SPA Using React Router
+# ITWP 1150 - SPA Using React Router
 
 Project objectives:
 
