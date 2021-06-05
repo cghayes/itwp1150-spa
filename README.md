@@ -1,6 +1,7 @@
 ITWP 1150 - SPA Using React Router
 
 Project objectives:
+
 Create a SPA in React using React Router.
 - Use CLI to create project
 - Use npm to install React Router
